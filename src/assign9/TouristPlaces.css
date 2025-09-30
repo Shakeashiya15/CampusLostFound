@@ -1,0 +1,18 @@
+TouristPlaces.css
+.card-container {
+ display: flex;
+ gap: 16px; padding: 10px;
+  flex-wrap: wrap;
+}
+.card {
+ border: 1px solid #ccc;
+ border-radius: 8px;
+ width: 280px;
+ padding: 10px;
+ text-align: center;
+}
+.card-image {
+ width: 100%;
+ height: auto;
+ border-radius: 4px;
+}
