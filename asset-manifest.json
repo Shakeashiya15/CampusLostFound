@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/CampusLostFound/static/js/main.0121da06.js",
+    "main.js": "/CampusLostFound/static/js/main.e3e55c45.js",
     "index.html": "/CampusLostFound/index.html",
-    "main.0121da06.js.map": "/CampusLostFound/static/js/main.0121da06.js.map"
+    "main.e3e55c45.js.map": "/CampusLostFound/static/js/main.e3e55c45.js.map"
   },
   "entrypoints": [
-    "static/js/main.0121da06.js"
+    "static/js/main.e3e55c45.js"
   ]
 }
