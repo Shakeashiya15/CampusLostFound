@@ -71,7 +71,7 @@ const ReportItemForm = () => {
         <button type="submit" style={styles.button}>
           Submit
         </button>
-      </form>
+      </form> 
     </div>
   );
 };

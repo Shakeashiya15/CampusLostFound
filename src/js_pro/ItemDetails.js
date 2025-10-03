@@ -47,7 +47,7 @@ const styles = {
     padding: "20px",
     borderRadius: "10px",
     backgroundColor: "#f0f4f8",
-    boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
+    boxShadow: "0 4px 12px rgba(70, 60, 60, 0.1)",
     fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
   },
   title: {
