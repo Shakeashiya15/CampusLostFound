@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Shakeashiya15/CampusLostFound/static/js/main.0121da06.js",
-    "index.html": "/Shakeashiya15/CampusLostFound/index.html",
-    "main.0121da06.js.map": "/Shakeashiya15/CampusLostFound/static/js/main.0121da06.js.map"
+    "main.js": "/CampusLostFound/static/js/main.0121da06.js",
+    "index.html": "/CampusLostFound/index.html",
+    "main.0121da06.js.map": "/CampusLostFound/static/js/main.0121da06.js.map"
   },
   "entrypoints": [
     "static/js/main.0121da06.js"
